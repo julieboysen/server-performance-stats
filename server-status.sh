@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "OS version"
 hostnamectl | grep "Operating System"
 echo
