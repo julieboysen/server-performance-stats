@@ -6,6 +6,10 @@ The `server-stats.sh` script provides an overview of basic performance statistic
 
 ## Features
 
+- **OS Version**: Displays the current OS version.
+- **Uptime**: Shows how long the server has been running.
+- **Load Average**: Displays the system load averages for the past 1, 5, and 15 minutes.
+- **Logged in Users**: Lists amount of logged-in users.
 - **Total CPU Usage**: Displays the current CPU usage percentage.
 - **Total Memory Usage**: Shows the used and free memory, along with percentage.
 - **Total Disk Usage**: Displays the used and free disk space, along with percentage.
