@@ -20,7 +20,7 @@ The `server-stats.sh` script provides an overview of basic performance statistic
     ```
 2. Make it an executable:
    ```
-   chmod +x serverstatus.sh
+   chmod +x server-status.sh
    ```
 3. Run the script:
    ```
